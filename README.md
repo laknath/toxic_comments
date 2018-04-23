@@ -10,4 +10,5 @@ They include following models.
 * [A deep CNN model](http://ai.tencent.com/ailab/media/publications/ACL3-Brady.pdf)
 * Sequence layer with attention
 
-For more details on the models, please refer to [this blog post]((http://laknath.com/2018/04/09/is-this-a-toxic-comment/)
+For more details, please refer to [this blog
+post](http://laknath.com/2018/04/09/is-this-a-toxic-comment/).
